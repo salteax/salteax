@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salteax
-- 👀 I’m interested in computer science
+- 👀 I’m interested in computer science and game development
 - 🌱 I’m currently learning C++
 
 <!---
